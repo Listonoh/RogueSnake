@@ -1,0 +1,31 @@
+﻿H - had
+. - mezera
+j - jablko
+X - kámen
+o - ocas
+e - otevřený exit
+E - zavřený exit
+1 - duch
+2 - ohnivá koule
+3 - //prázdno
+4 - 
+c - kanon
+b - ball 
+k - klíč 
+B - bomba
+A - armor (brnění)
+_ - odpalovaci plošina
+D - diamant
+H.jXoeE1234cbkB_A
+
+eee
+skills 
+	skok (jednou za 5 tiků za zmáčknutí mezerníku se posune o 3 políčka ve směru)
+	iron head (projektyly může vykrýt hlavou bez zranění)
+	nenažranost (sjezením 2 jablek se přidá jeden ocas - skore zůstává)
+	šupinové brnění (za 50 tiků bez brnění získá had brnění + na začátku levlů)
+	plyvání ohně (vypustí z tlamy oheň 2* rychlost hada)
+
+!!!zamezit enemies aby chodily ke vchodu do místnosti
+
+
